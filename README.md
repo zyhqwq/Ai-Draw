@@ -1,5 +1,7 @@
 # AI Drawing Platform — Kaggle GPU 版
 
+[![Kaggle](https://img.shields.io/badge/Run%20on-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/new)
+
 > **💡 前排说明：** 此脚本当作玩具就好，不要指望能生成像 GPT-5.5 一样的图像，但不影响预选的这些模型生图是挺优秀的。
 
 基于 **Stable Diffusion XL (SDXL)** 的 AI 绘图平台，在 **Kaggle Tesla T4 (14.6GB)** 上运行，提供 **Gradio Web UI**。
