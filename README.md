@@ -20,12 +20,6 @@
 |---|---|---|
 | ![示例1](image.webp) | ![示例2](image%20(1).webp) | ![示例3](image%20(2).webp) |
 
-**Prompt:**
-```
-masterpiece, best quality, masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper, day, sun, sky, sea, artbook, bishoujo, solo, long hair, white hair, wet hair, ahoge, cute face, white colored eyelashes, cat_ears, hair ear, pointy ears, red eyes, medium breasts, one breast out, one-piece swimsuit, no bra, white pantyhose, slippers, fetal_position, leg_hug
-```
-
-**Negative Prompt:** `nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet`
 
 ---
 
