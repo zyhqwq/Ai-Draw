@@ -107,9 +107,6 @@ Token 在 https://huggingface.co/settings/tokens 创建。
 ## ⚠️ 重要：禁止使用 NSFW 模型
 
 **本项目严格遵守内容安全准则，严禁用于生成任何 NSFW（Not Safe For Work）内容**
-
-**所有使用的模型均为安全审核通过的版本：**
-- 所有模型加载时设置 `safety_checker=None` 仅用于性能优化，不代表去除安全限制
 - 用户应遵守 Kaggle 社区准则和 Hugging Face 模型许可协议
 - 如发现违规使用，将被Kaggle平台封号处理，本人不负责
 
